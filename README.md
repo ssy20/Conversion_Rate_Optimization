@@ -1,4 +1,7 @@
 # Conversion_Rate_Optimization
+
+## Problem Statement
+Given data related to the characteristics and browsing behavior of customers at an E-commerce site, come up with recommendations for the product and the marketing teams to improve conversion rate. In particular, we should identify the characteristics of power users to help the marketing team to reach them using different marketing channels. In addition, worse-performing segments are opportunities for product improvement
 ## Data
 The dataset contains information about users who hit an ecommerce site. We know some of their characteristics, such as their country, marketing channel, age, whether they are repeat users, and the number of pages visited during that session. We also know whether they converted or not.
 
