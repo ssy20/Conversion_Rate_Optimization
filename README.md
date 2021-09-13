@@ -7,7 +7,7 @@ Given data related to the characteristics and browsing behavior of customers at 
 Build a model to predict the binary outcome(converted or not). Based on the model result, come up with recommendations to improve conversion rate.
 - merged_dat.csv: The dataset contains information about users who hit an ecommerce site. We know some of their characteristics, such as their country, marketing channel, etc. We also know whether they converted or not. 
 - EDA.ipynb: Exploratory data analysis to understand the data distribution
-- Improve_Conversion_Rate.ipynb: Supervised models to predict conversion and extract insights 
+- conversion_prediction.ipynb: Supervised models to predict conversion and extract insights 
 
 ## Conclusions 
 - Returning customers are much better than new users and young users have a higher retention rate than old users. Also, most young users come from search engine. Targeted emails with offers to bring them back to the site could be a good idea to try.
